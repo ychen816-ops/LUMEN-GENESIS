@@ -1,0 +1,7 @@
+{
+  "name": "Lumen Genesis",
+  "description": "A generative art piece where light fragments form topological organisms, controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
